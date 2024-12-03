@@ -1,3 +1,5 @@
 #支持私库
 dbeaver/cloudbeaver:latest
+postgres:10.21
+
 #支持指定架构
