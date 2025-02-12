@@ -1,7 +1,4 @@
 #支持私库
-dbeaver/cloudbeaver:latest
-postgres:10.21
-clickhouse/clickhouse-server:24.1.2.5
 milvusdb/milvus:v2.5.0-beta
 
 #支持指定架构
