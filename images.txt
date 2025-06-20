@@ -1,5 +1,6 @@
 #支持私库
 milvusdb/milvus:v2.5.0-beta
 willwaitwind/dify:latest
+govcloud/docker-kylo:latest
 
 #支持指定架构
