@@ -2,6 +2,7 @@
 #milvusdb/milvus:v2.5.0-beta
 #willwaitwind/dify:latest
 #keven4ever/kylo_docker:latest
-dperson/samba:latest
+#dperson/samba:latest
+oceanbase/oceanbase-ce:latest
 
 #支持指定架构
