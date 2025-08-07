@@ -5,6 +5,9 @@
 #dperson/samba:latest
 #oceanbase/oceanbase-ce:latest
 #centos:7
-cloudera/quickstart:latest
+#cloudera/quickstart:latest
+
+hortonworks/sandbox-hdp:3.0.1
+hortonworks/sandbox-proxy:1.0
 
 #支持指定架构
