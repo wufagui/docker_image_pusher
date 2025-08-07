@@ -5,6 +5,6 @@
 #dperson/samba:latest
 #oceanbase/oceanbase-ce:latest
 #centos:7
-ambari/ambari:latest
+cloudera/quickstart:latest
 
 #支持指定架构
