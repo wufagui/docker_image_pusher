@@ -4,6 +4,7 @@
 #keven4ever/kylo_docker:latest
 #dperson/samba:latest
 #oceanbase/oceanbase-ce:latest
-centos:7
+#centos:7
+ambari/ambari:latest
 
 #支持指定架构
