@@ -7,7 +7,7 @@
 #centos:7
 #cloudera/quickstart:latest
 
-hortonworks/sandbox-hdp:3.0.1
-hortonworks/sandbox-proxy:1.0
-
+#hortonworks/sandbox-hdp:3.0.1
+#hortonworks/sandbox-proxy:1.0
+zlmediakit/zlmediakit:master
 #支持指定架构
