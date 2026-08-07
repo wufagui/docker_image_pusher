@@ -9,5 +9,6 @@
 
 #hortonworks/sandbox-hdp:3.0.1
 #hortonworks/sandbox-proxy:1.0
-zlmediakit/zlmediakit:master
+#zlmediakit/zlmediakit:master
+emqx/emqx:latest
 #支持指定架构
