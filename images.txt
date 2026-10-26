@@ -1,9 +1,11 @@
 
 #支持指定架构
---platform=linux/arm64 redis:7.2
---platform=linux/arm64 mysql:8.0
---platform=linux/arm64 nginx
+#--platform=linux/arm64 redis:7.2
+#--platform=linux/arm64 mysql:8.0
+#--platform=linux/arm64 nginx
 
-redis:7.2
-mysql:8.0
-nginx
+#redis:7.2
+#mysql:8.0
+#nginx
+
+--platform=linux/arm64 zlmediakit/zlmediakit:master
