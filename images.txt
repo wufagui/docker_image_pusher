@@ -8,4 +8,4 @@
 #mysql:8.0
 #nginx
 
---platform=linux/arm64 zlmediakit/zlmediakit:master
+--platform=linux/arm64 minio/minio
